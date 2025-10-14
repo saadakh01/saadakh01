@@ -1,12 +1,8 @@
-
-
 <h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">A passionate developer from London</h3>
-<img align="right" alt="coding" width="400"src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG9wSkY1dS01MWhBeFRlRnhwbEVnSzNqSHhtZ3xBQ3Jtc0ttNUQzZXVHWi1PaTRYaEVOS3NUQ0ZkblF1dFU1MFcxY3NHU2Q2R0xRSXdqSXFWWG1LbHZDSC1NT19iNUVLSFluc2ZiLS1UVERMOEJzdF82Rnk0ZE16Y2F2Z0JPYUhpbTZUQklZeklrb3J1QXl2dzMwTQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadakh01&label=Profile%20views&color=0e75b6&style=flat" alt="saadakh01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadakh01" alt="saadakh01" /></a> </p>
 
 - 🔭 I’m currently working on **SpeednetRDC**
 
