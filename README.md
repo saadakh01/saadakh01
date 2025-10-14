@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **SpeednetRDC**
 
-- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Web and App developments**
 
