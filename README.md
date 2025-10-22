@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on **SpeednetRDC**
 
+- Azure ☁️| DevOps ♾️ | Terraform 🏗️ | CI/CD Pipeline | Docker 🐳 | Kubernetes | Linux🐧 & Cloud | Passionate About Cloud & Automation🔗|
 
 - 👯 I’m looking to collaborate on **Web and App developments**
 
